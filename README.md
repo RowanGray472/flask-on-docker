@@ -6,7 +6,7 @@ Everything is coordinated with Docker and the project has dev and prod environme
 
 The website itself is super minimalistic—the challenge here was assembling the stack so I can use it again for projects that might actually require it.
 
-But it can upload and render GIFs! Check it out
+But it can upload and render GIFs! Check it out—apologies for the low video quality :(
 
 ![Demo of uploading and rendering the gif!](https://github.com/RowanGray472/flask-on-docker/blob/main/9lhe8x.gif)
 
