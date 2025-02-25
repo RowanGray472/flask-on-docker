@@ -8,7 +8,7 @@ The website itself is super minimalistic—the challenge here was assembling the
 
 But it can upload and render GIFs! Check it out
 
-UPLOAD LINK HERE
+![Demo of uploading and rendering the gif!](https://github.com/RowanGray472/flask-on-docker/blob/main/9lhe8x.gif)
 
 ### Build Instructions
 
